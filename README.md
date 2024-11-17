@@ -1,6 +1,7 @@
 # Installing and Configuring SonarQube on a Linux Server.
 
-**Why SonarQube?**
+**Why SonarQube?** 
+
 **SonarQube** is more than just a code quality tool; it's a partner in building better software. SonarQube helps build a sustainable, resilient codebase while elevating code review to a tool for creating exceptional software. It’s your key to excellence in static code analysis and future-ready development. Here are some features why SonarQube stands out as an essential addition to your development workflow:  
 - Elevates Code Quality  
 - Enhances Security 
@@ -35,6 +36,7 @@ Setting up SonarQube on a Linux server requires meeting specific system requirem
 3. Use a firewall or security group rules to restrict access to SonarQube ports, allowing connections only from authorized sources.  
 
 **Step 1: Prepare the Server**
+
 Update the system packages and install necessary utilities:
 
    ```sh
