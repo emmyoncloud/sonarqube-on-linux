@@ -1,5 +1,5 @@
 
-# Installing and Configuring SonarQube on a Linux Server.
+# Installing and Configuring SonarQube on a CentOS Linux Server.
 
 **Why SonarQube?** 
 
