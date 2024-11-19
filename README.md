@@ -20,7 +20,7 @@ Setting up SonarQube on a Linux server requires meeting specific system requirem
 
 **Server Requirements** 
 - **Memory and CPU**: A server with at least **2GB of RAM** and **1 vCPU** is required for a smooth installation and operation.  
-- **Operating System**: A Linux distribution with a modern kernel version, preferably Ubuntu or CentOS.  
+- **Operating System**: A Linux distribution with a modern kernel version, preferably CentOS.  
 
 **Database Requirements**  
 - **PostgreSQL**: Install and configure **PostgreSQL version 17 or newer**. PostgreSQL serves as the database backend for SonarQube, storing essential data for analysis and reporting.  
